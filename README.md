@@ -26,9 +26,9 @@ The game challenges users to remember and repeat the generated sequence.
 
 ## Screenshots
 
-![Game Home Screen](./screenshot-home.png)
+![Game Home Screen](./assets/screenshot-home.png)
 
-![Gameplay Level Screen](./screenshot-game.png)
+![Gameplay Level Screen](./assets/screenshot-game.png)
 
 ## Live Demo
 
