@@ -26,11 +26,13 @@ The game challenges users to remember and repeat the generated sequence.
 
 ## Screenshots
 
-![Simon Says Game](./screenshot.png)
+![Game Home Screen](./screenshot-home.png)
+
+![Gameplay Level Screen](./screenshot-game.png)
 
 ## Live Demo
 
-coming soon
+https://simon-says-nk.netlify.app/
 
 ## GitHub Repository
 
