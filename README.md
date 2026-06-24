@@ -24,6 +24,10 @@ The game challenges users to remember and repeat the generated sequence.
 - Used DOM manipulation for dynamic UI updates
 - Created an interactive user experience
 
+## Screenshots
+
+![Simon Says Game](./screenshot.png)
+
 ## Live Demo
 
 coming soon
