@@ -38,3 +38,7 @@ https://simon-says-nk.netlify.app/
 
 https://github.com/Narendra-kushwaha/Simon-Says-Game
 
+## 👨‍💻 Author
+
+Narendra Kushwaha
+
